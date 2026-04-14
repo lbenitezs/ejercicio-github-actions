@@ -1,0 +1,7 @@
+{
+  "name": "ejercicio-actions",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'Todo correcto' && exit 0"
+  }
+}
